@@ -1,0 +1,95 @@
+body {
+    background-color: bisque;
+}
+
+.first {
+
+    text-align: center;
+    
+    
+}
+
+.second {
+    padding: 10px;
+    margin: 10px ;
+    height: auto;
+    justify-content:center;
+    display: flex;
+
+
+    
+}
+ 
+.third {
+    
+    margin: 10px;
+    color: blue;
+    height: auto;
+    width: 2000px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+
+    
+    
+}
+
+.fourth {
+    margin: 10px;
+}
+
+.color {
+    color: rgba(20, 8, 121, 0.849);
+}
+
+.p {
+    color: black;
+    height: auto;
+    width: 380px;
+    text-align: justify;
+    font-size:17px;
+    font-family: tahoma;
+    margin-left: 1pc;
+    margin-right: 1pc;
+}
+
+.img {
+    margin-top: 1cm;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+
+.intro {
+    border-end-end-radius: ;
+    background-color: rgb(252, 217, 174);
+   text-align: center;
+    font-family: 'times new roman' ;
+    height: auto;
+    width: auto;
+   margin-right: 340px;
+   margin-left: 340px;
+}
+
+.cie {
+    color: rgb(105, 34, 34);
+    box-shadow: 2px 2px 2px 2px rgba(182, 1, 1, 0.288);
+   
+}
+
+.btn {
+    border: none;
+    margin-left: 14.5cm;
+    width: 200px;
+    height: 40px;
+    border-radius: .2cm;
+    background-color: rgba(209, 161, 102, 0.822);
+    cursor:pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    box-shadow: 2px 2px 2px 2px rgba(245, 159, 54, 0.822);
+}
+
+.btn:hover {
+    background-color:  rgba(245, 159, 54, 0.822);
+    color: white;
+    transition: .3 ease-in-out;
+    transform:rotate(1.5deg);
+}

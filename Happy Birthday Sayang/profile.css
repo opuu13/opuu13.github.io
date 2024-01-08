@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(156, 91, 91, 0.342);
+}
+
+.p {
+
+}
+.text {
+    width: 600px;
+    font-size: 30px;
+}
+
+.img {
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 1cm;
+}
+.img2 {
+    margin-left: .8cm;
+}
+
+.text2 {
+    font-size: 30px;
+    margin-left: 1.4cm;
+    margin-top: 0;
+}

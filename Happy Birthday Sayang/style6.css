@@ -1,0 +1,75 @@
+body {
+    background-color: rgba(180, 187, 228, 0.733);
+}
+.paragraf {
+    width: 800px;
+    font-size: 25px;
+    margin-left: 6.3cm;
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.judul {
+    text-align: center;
+    font-size: 70px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wadah {
+    background-color: rgba(216, 221, 245, 0.733);
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    height: 30x;
+    border-radius: 8px;
+    width: 400px;
+    font-family:monospace   ;
+    margin-left: 11.5cm;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+   cursor:wait;
+}
+.wadah:hover {
+    background-color: rgba(180, 187, 228, 0.733);
+    transform: rotate(10deg);
+    color: rgb(255, 0, 0)
+}
+
+.div1 {
+
+   display: flex;
+   padding: 10px;
+}
+
+.div2
+{
+    background-color: rgba(186, 200, 219, 0.87);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    margin-left: 11px;
+    offset-distance: 2px;
+    padding:15.1px;
+    
+    
+}
+
+
+.btn {
+    border: none;
+    margin-left: 14.5cm;
+    width: 200px;
+    height: 50px;
+    border-radius: .2cm;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    background-color: rgba(216, 221, 245, 0.733);
+    cursor:pointer;
+    font-family: 'Times New Roman', Times, serif;
+    color:black ;
+    font-size: 20px;    
+}
+
+.btn:hover {
+    background-color: rgba(180, 187, 228, 0.733);
+    color: red;
+    transition: .3 ease-in-out;
+    transform:rotate(1.5deg);
+}
+
